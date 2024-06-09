@@ -1,4 +1,3 @@
 alpine
---platform linux/arm64 cooderl/wewe-rss-sqlite:latest
-linuxserver/;latest
+linuxserver/qbittorrent;latest
 
